@@ -1,0 +1,86 @@
+/* Home Page */
+@media only screen and (max-width: 988px) {
+    .padding {
+        margin-top: -90px;
+        margin-left: 15px;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    .sbnm {
+        color: #070a40 !important;
+        font-size: 40px;
+    }
+
+    .hero p  {
+        font-size: 16px;
+    }
+}
+/* about */
+@media only screen and (max-width: 600px) {
+
+.about .content, p{
+    font-size: 20px;
+  }
+}
+
+/* resume */
+@media only screen and (max-width: 1100px) {
+.resume div img{
+    width: 100%;
+}
+}
+
+/* 
+@media (max-width: 360px) {
+    .padding {
+        margin-top: -90px;
+        margin-left: 15px;
+    }
+
+    .asif-img {
+        width: 76%;
+        padding-top: 35px;
+    }
+
+    .asif-ali {
+        font-size: 40px;
+    }
+
+    .hero p {
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+
+    .hero .need {
+        font-size: 20px;
+        padding-top: -10px;
+    }
+}
+
+@media (max-width: 375px) {
+    .asif-img {
+        width: 100%;
+        padding-top: 35px;
+    }
+} */
+
+/* About Page */
+
+
+/* Certification */
+
+@media only screen and (max-width: 767px) {
+    .certification .our-certificat img {
+        padding-top: 30px !important;
+    }
+
+    .page-title .heading h1 {
+        font-size: 50px;
+        font-weight: 400;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {}
